@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\TcKimlikOlusturucu\TcKimlikOlusturucu\bin\Debug\TcKimlikOlusturucu.exe.config
+C:\Users\Asus\Desktop\TcKimlikOlusturucu\TcKimlikOlusturucu\bin\Debug\TcKimlikOlusturucu.exe
+C:\Users\Asus\Desktop\TcKimlikOlusturucu\TcKimlikOlusturucu\bin\Debug\TcKimlikOlusturucu.pdb
+C:\Users\Asus\Desktop\TcKimlikOlusturucu\TcKimlikOlusturucu\obj\Debug\TcKimlikOlusturucu.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\TcKimlikOlusturucu\TcKimlikOlusturucu\obj\Debug\TcKimlikOlusturucu.Form1.resources
+C:\Users\Asus\Desktop\TcKimlikOlusturucu\TcKimlikOlusturucu\obj\Debug\TcKimlikOlusturucu.Properties.Resources.resources
+C:\Users\Asus\Desktop\TcKimlikOlusturucu\TcKimlikOlusturucu\obj\Debug\TcKimlikOlusturucu.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\TcKimlikOlusturucu\TcKimlikOlusturucu\obj\Debug\TcKimlikOlusturucu.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\TcKimlikOlusturucu\TcKimlikOlusturucu\obj\Debug\TcKimlikOlusturucu.exe
+C:\Users\Asus\Desktop\TcKimlikOlusturucu\TcKimlikOlusturucu\obj\Debug\TcKimlikOlusturucu.pdb
